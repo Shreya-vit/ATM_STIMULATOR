@@ -114,8 +114,8 @@ Through this project, we learn how Python can be used to build a simple real-wor
 
 👩‍💻 Author
 
-ANIKET
-B.Tech MIM
+SHREYA
+B.Tech CSE CORE
 VIT Bhopal University
 
  License
