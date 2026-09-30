@@ -1,0 +1,3 @@
+Problem Statement – ATM Simulator
+The ATM Simulator project is designed to simulate the basic operations of an Automated Teller Machine using Python. The system allows users to securely access their account using a PIN and perform common banking transactions such as checking account balance, depositing money, withdrawing money, changing the PIN, and viewing transaction history.
+The main objective of this project is to develop a simple, user-friendly banking system while applying fundamental Python concepts such as variables, conditional statements, loops, functions, lists, and exception handling. The simulator provides a safe environment for students to understand how basic ATM transactions and authentication processes work.
